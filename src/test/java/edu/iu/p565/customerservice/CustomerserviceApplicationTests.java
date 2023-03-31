@@ -1,0 +1,14 @@
+package edu.iu.p565.customerservice;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CustomerserviceApplicationTests {
+	CustomerserviceApplicationTests() {
+	}
+	@Test
+	void contextLoads() {
+	}
+
+}
